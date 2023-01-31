@@ -1,1 +1,18 @@
-{"users":[{"id":"0","name":"Bataaaa","role":"admin"},{"id":"1","name":"dataaaa","role":"admin"},{"id":"2","name":"sataaaa","role":"admin"},{"name":"doggy","role":"admin","id":3}]}
+{
+  "users": [
+    { "id": "0", "name": "Bataaaa", "role": "admin" },
+    { "id": "1", "name": "dataaaa", "role": "admin" },
+    { "id": "2", "name": "sataaaa", "role": "admin" },
+    { "name": "doggy", "role": "admin", "id": 3 },
+    {
+      "id": "48317de4-cf85-4e35-95b9-5a2728d8a46a",
+      "name": "Anuu",
+      "password": "$2b$10$eWSmYiWeikA1PrYTEkSLeetNkXfWPPUk8cEJ0xhjZLPmsCUXEFyhq"
+    },
+    {
+      "id": "63ec18fe-22ef-4c3a-ae64-1cb8cb9de9d2",
+      "name": "Anuu",
+      "password": "$2b$10$3wMfP2fw0pD2BezOKgk5pOc2DaJe.g/oRpF2wfIetDr8Ex7IGnCRi"
+    }
+  ]
+}
